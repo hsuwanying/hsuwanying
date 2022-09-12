@@ -2,7 +2,7 @@
 A CX data analyst based in Zurich, Switzerland, passionate about utilizing data to create quality customer experience. 
 
 ### A little about me: Career transition from fasion retailing to data sceince
-For the past ten years, I’ve excelled in customer experience in different business sectors mainly in fashion retailing. With a growing interest in data analytics, I decided to take a master's degree focusing on the application of Data Science in early 2020. In 2022, I started as a web data analyst at MarketVision AG.
+For the past ten years, I’ve excelled in customer experience in different business sectors mainly in fashion retailing. With a growing interest in data analytics, I decided to take a master's degree focusing on the application of Data Science in early 2020. In 2022, I started a position as a data analyst at MarketVision AG.
 
 ### 🔭 About the projects
 Due to confidential resons,  I only added three projects. In these selected works, I documented how I use business framework, essential programming packages, visualization tools, ML models to solve business problems.
