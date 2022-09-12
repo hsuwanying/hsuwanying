@@ -23,7 +23,7 @@ Due to confidential resons,  I only added three projects. In these selected work
 <br>
 🧘🏻‍♀️ **Pilates**: help me to stay focus and train my core at the same time
 <br>
-👩🏻‍🎨 **Texture art**: Currenlty learning the basis painting skills, looking forward to create a master picese to decorete my living room 
+👩🏻‍🎨 **Texture art**: currenlty learning the basis painting skills, i'd like to create a giant painting to decorete my living room 
 
 
 ### 👩🏻‍💻 I’m currently learning
