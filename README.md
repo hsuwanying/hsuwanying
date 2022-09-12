@@ -8,22 +8,22 @@ For the past ten years, I’ve excelled in customer experience in different busi
 Due to confidential resons,  I only added three projects. In these selected works, I documented how I use business framework, essential programming packages, visualization tools, ML models to solve business problems.
  
 ### 🔧 Tech skills I have
-  - Python: I familar with essential packages, for instance, pandas, NumPy, Matplotlib, seaborn, and data engineering techniques such as ETL / ELT.
+  - Python: Data Analysis and data engineering techniques such as ETL / ELT.
   
-  - R: I can conduct data analysis and machine learning projects use essential packages, from loading data, processing, manipulation, and graphical analysis to model fitting. Good knowledge of statistic models and machine learning methods.
+  - R: From loading data, processing, manipulation, and graphical analysis to model fitting
   
-  - SQL: I have good knowledge in DBMS relational and non- relational databases, data structures, and data types; I'm able to manage, design, manipulate, query, and analyze extensive data collections stored in a database; formulate data queries to answer the diversity of data questions.
+  - SQL:DBMS relational and non- relational databases, data structures, data types and formulate data queries 
   
-  - Tableau: I know how to perform data interpretation, transformations, and analysis data to create insightful visualizations that answer a variety of business questions
+  - Tableau: create insightful visualizations that answer a variety of business questions
   
-  - HTML & CSS: I can interpret web structure and can design a single web page using HTML tags, elements, and style page layout
+  - HTML & CSS:  design a single web page using HTML tags, elements, and style page layout
 
 ### 👯 Apart from my work, I love 
-👩🏻‍🍳 **Coooking**: like meditation, I like to cook complicate dishes when I got stuck at work; the entire precoess helps me to rethink and  clearify my thoughts
+👩🏻‍🍳 **Coooking**: like meditation,the entire precoess helps me to rethink and  clearify my thoughts
 <br>
-🧘🏻‍♀️ **Pilates**: another stress release activties, that help me to stay focus and train my core at the same time
+🧘🏻‍♀️ **Pilates**: help me to stay focus and train my core at the same time
 <br>
-👩🏻‍🎨 **Texture art**: the third meditation method that I recently fall in love with. Currenlty learning the basis painting skills, looking forward to create a master picese to decorete my living room 
+👩🏻‍🎨 **Texture art**: Currenlty learning the basis painting skills, looking forward to create a master picese to decorete my living room 
 
 
 ### 👩🏻‍💻 I’m currently learning
