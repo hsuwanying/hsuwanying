@@ -1,7 +1,7 @@
 ### 💁🏻‍♀️ Hey there! I'm Carol
 A CX data analyst based in Zurich, Switzerland, passionate about utilizing data to create quality customer experience. 
 
-### A little about me: Career transition from fasion retailing to data sceince
+### A little about me: Career transition from fashion retailing to data science
 For the past ten years, I’ve excelled in customer experience in different business sectors mainly in fashion retailing. With a growing interest in data analytics, I decided to take a master's degree focusing on the application of Data Science in early 2020. In 2022, I started a position as a data analyst at MarketVision AG.
 
 ### 🔭 About the projects
@@ -19,11 +19,11 @@ Due to confidential resons,  I only added three projects. In these selected work
   - HTML & CSS:  design a single web page using HTML tags, elements, and style page layout
 
 ### 👯 Apart from my work, I love 
-👩🏻‍🍳 **Coooking**: like meditation,the entire precoess helps me to rethink and  clearify my thoughts
+👩🏻‍🍳 **Coooking**: enjoy health and balence good food!
 <br>
-🧘🏻‍♀️ **Pilates**: help me to stay focus and train my core at the same time
+🧘🏻‍♀️ **Pilates**: stay health and stay fit
 <br>
-👩🏻‍🎨 **Texture art**: currenlty learning the basis painting skills, i'd like to create a giant painting to decorete my living room 
+👩🏻‍🎨 **Texture art**: my new hobby, currenlty learning the basis painting skills
 
 
 ### 👩🏻‍💻 I’m currently learning
