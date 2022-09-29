@@ -18,15 +18,15 @@ Due to confidential resons,  I only added three projects. In these selected work
   
   - HTML & CSS:  design a single web page using HTML tags, elements, and style page layout
 
-### 👯 Apart from my work, I love 
-👩🏻‍🍳 **Coooking**: enjoy health and balence good food!
+### 👯 Apart from my work, I enjoy 
+👩🏻‍🍳 **Cooking**: it's kind relexing, that I can have fun and be creative meanwhile enjoy good food
 <br>
-🧘🏻‍♀️ **Pilates**: stay health and stay fit
+🧘🏻‍♀️ **Pilates**: it's low-intensity exercise but helps to train core strength and muscle throughout full body
 <br>
-👩🏻‍🎨 **Texture art**: my new hobby, currenlty learning the basis painting skills
+👩🏻‍🎨 **Texture / abstract art**: an alternative to meditation
 
 
-### 👩🏻‍💻 I’m currently learning
+### I’m currently learning
 
 **UX concept and UX design**: I think ux and data scinece are well connected when it comes to web analytics, having good knowledge of both can help with decision-making and improve products as well as user experience
 
