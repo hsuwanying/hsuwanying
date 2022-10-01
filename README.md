@@ -1,7 +1,7 @@
-### 💁🏻‍♀️ Hey there! I'm Carol
-A CX data analyst based in Zurich, Switzerland, passionate about utilizing data to create quality customer experience. 
+### Hey there! I'm Carol
+A CX data analyst from 🇹🇼Taipei Taiwan and based in Zurich, Switzerland🇨🇭. I am passionate about utilizing data to create quality customer experience and help business grow. 
 
-### A little about me: Career transition from fashion retailing to data science
+### A little about me: Career transition from fashion to tech
 For the past ten years, I’ve excelled in customer experience in different business sectors mainly in fashion retailing. With a growing interest in data analytics, I decided to take a master's degree focusing on the application of Data Science in early 2020. In 2022, I started a position as a data analyst at MarketVision AG.
 
 ### 🔭 About this Github
