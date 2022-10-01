@@ -4,8 +4,8 @@ A CX data analyst based in Zurich, Switzerland, passionate about utilizing data 
 ### A little about me: Career transition from fashion retailing to data science
 For the past ten years, I’ve excelled in customer experience in different business sectors mainly in fashion retailing. With a growing interest in data analytics, I decided to take a master's degree focusing on the application of Data Science in early 2020. In 2022, I started a position as a data analyst at MarketVision AG.
 
-### 🔭 About the projects
-Due to confidential resons,  I only added three projects. In these selected works, I documented how I use business framework, essential programming packages, visualization tools, ML models to solve business problems.
+### 🔭 About this Github
+Due to confidential resons,  I only added three projects at the momment. In these selected works, I documented how I use business framework, essential programming packages, visualization tools, ML models to solve business problems.
  
 ### 🔧 Tech skills I have
   - Python: Data Analysis and data engineering techniques such as ETL / ELT.
@@ -18,12 +18,12 @@ Due to confidential resons,  I only added three projects. In these selected work
   
   - HTML & CSS:  design a single web page using HTML tags, elements, and style page layout
 
-### 👯 Apart from my work, I enjoy 
-👩🏻‍🍳 **Cooking**: it's kind relexing, that I can have fun and be creative meanwhile enjoy good food
+### 👯 Apart from my work, I love 
+👩🏻‍🍳 **Cooking**: being creative meanwhile enjoy good food
 <br>
 🧘🏻‍♀️ **Pilates**: it's low-intensity exercise but helps to train core strength and muscle throughout full body
 <br>
-👩🏻‍🎨 **Texture / abstract art**: an alternative to meditation
+👩🏻‍🎨 **Texture / abstract art**: another alternative to meditation
 
 
 ### I’m currently learning
@@ -31,7 +31,6 @@ Due to confidential resons,  I only added three projects. In these selected work
 **UX concept and UX design**: I think ux and data scinece are well connected when it comes to web analytics, having good knowledge of both can help with decision-making and improve products as well as user experience
 
 <br>
-🇬🇧Thank you for visiting my Github! 🇨🇭Vielen Dank für Ihren Besuch auf meinem Github!
 
 [👋Happy Connet with you!](www.linkedin.com/in/carolwyhsu)
 
