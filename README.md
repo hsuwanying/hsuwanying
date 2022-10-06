@@ -28,7 +28,7 @@ Due to confidential resons,  I only added three projects at the momment. In thes
 
 ### I’m currently learning
 
-**UX concept and UX design**: I think ux and data scinece are well connected when it comes to web analytics, having good knowledge of both can help with decision-making and improve products as well as user experience
+**UX concept and UX design**: I think ux and data science are well connected, having good knowledge of both can help with decision-making and improve product as well as create better user experience
 
 <br>
 
