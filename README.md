@@ -15,7 +15,7 @@ Due to confidential resons,  I only added three projects at the momment. In thes
   
   - Tableau: create insightful visualizations that answer a variety of business questions
   
-  - HTML & CSS:  design a single web page using HTML tags, elements, and style page layout
+  - HTML & CSS:  Familar with essential tags, elements, to style and structure web pages
 
 ### 👯 Apart from my work, I love 
 👩🏻‍🍳 **Cooking**: being creative meanwhile enjoy good food
@@ -27,7 +27,8 @@ Due to confidential resons,  I only added three projects at the momment. In thes
 
 ### I’m currently learning
 
-**UX concept and UX design**: I think ux and data science are well connected, having good knowledge of both can help with decision-making and improve product as well as create better user experience
+**UX concept and UX design**: 
+Due to my work, I analysed several websites, and in many cases, the problems were not visible when a first glance at the dataset or reading a data report, and most of the issues are due to poor design. Hence, it was the reason I learned UX to provide better insights to inform my team and clients for further improvement. 
 
 <br>
 
