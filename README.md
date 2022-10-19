@@ -32,7 +32,7 @@ Due to my work, I analysed several websites, and in many cases, the problems wer
 
 <br>
 
-[👋Happy Connet with you!](www.linkedin.com/in/carolwyhsu)
+[👋Happy Connet with you!](www.linkedin.com/in/carolhsuwy)
 
 <!--
 **hsuwanying/hsuwanying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
