@@ -30,8 +30,8 @@ For the past eight years, I've excellented in Customer Experinece with focus on 
   - 👩🏻‍🍳 **Cooking** I can make the best Taiwanese fried chicken in Zurich 😎
   - 📷 **Photography**: I document dishes I cooked, and wish to create my own cooking e-book
   - 🧘🏻‍♀️ **Pilates**: to train my core and strength muscle throughout full body excerise
-  - 👩🏻‍🎨 **Texture / abstract art**: a new hobby I fall in love recently becasue I want to make a giant abstract art to decorate my living room
-
+  - 👩🏻‍🎨 **Texture & abstract art**: a new hobby I discoved recently, a greate alternative to meditation
+  
 ### 🔭 About this Github
 Due to confidential resons,  I only added three projects at the momment. In these selected works, I documented how I use business framework, essential programming packages, visualization tools, ML models to solve business problems.
  
