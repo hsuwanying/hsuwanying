@@ -19,7 +19,7 @@ For the past ten years, I've excelled in data analytics in retail. With a great 
 - Entrepreneur, business owener who owned a product sourcing bsuiess with +5000 follower on Facebook Fan page
 - Event host, I hosted several brand events with world famous fashion publishers Vouge and Marie Clarie in Taiwan in 2013 and 2015.
 
-### 💁🏻‍♀️ I enjoy...
+### 💁🏻‍♀️ I enjoy
 - 👩🏻‍🍳 **Cooking**, I can make the best Taiwanese fried chicken in Zurich (or Swizerland😎)
 - 🧘🏻‍♀️ **Pilates**: to train my core and strength muscle throughout full body excerise
 - 👩🏻‍🎨 **Texture / abstract art**: a new hobby I fall in love recently becasue I want to make a giant abstract art to decorate my living room
