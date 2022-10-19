@@ -3,9 +3,9 @@ A customer-centric data analyst with 8+ years of experience in Data Analysis, Bu
 
 ### In addtion, I am also a(n)...
 
-<p align = "center">
+
 <img width="400" src ="https://user-images.githubusercontent.com/72688726/196816578-ee9b29a9-254c-4a55-b558-89f2ce35fd25.svg">
-</p>
+
 
   - Entrepreneur, business owener, I own a product sourcing bsuiess with +5000 follower on Facebook Fan page
 
