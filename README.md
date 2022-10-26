@@ -1,5 +1,5 @@
 ### Hey there! I'm Carol from 🇹🇼Taipei Taiwan and currently living in Zurich, Switzerland🇨🇭
-A customer-centric data analyst with 8+ years of experience in Data Analysis, Business Development and Customer Experience with focus on consumer goods, luxury and fashion industry. With a great interest in learning in-demand data science skills, I decided to pursue a master's degree in data science in 2020. Then, I started a position as a data analyst at MarketVision AG in 2022. 
+A customer-centric data analyst with 8+ years of experience in Data Analysis, Business Development and Customer Experience with focus on consumer goods, luxury, and fashion industry. With a great interest in learning in-demand data science skills, I decided to pursue a master's degree in data science in 2020. Then, I started a position as a data analyst at MarketVision AG in 2022
 
 ### In addtion to that, I am also a(n)...
 
@@ -7,13 +7,13 @@ A customer-centric data analyst with 8+ years of experience in Data Analysis, Bu
 <img width="400" src ="https://user-images.githubusercontent.com/72688726/196816578-ee9b29a9-254c-4a55-b558-89f2ce35fd25.svg">
 
 
-  - Entrepreneur, business owener, I own a product sourcing business, managing +5000 customrts via Facebook Fan page
+  - Entrepreneur, business owner, I own a product sourcing business, managing +5000 customers via Facebook Fan page
 
-  - CX advocate, have unwaving passion in **Customer Insights**, I analyse market trends, customer and product data into evidence-based decisions to support business needs. 
+  - CX advocate, have unweaving passion in **Customer Insights**, I analyse market trends, customer, and product data into evidence-based decisions to support business needs. 
 
-  - Active learner, I constantly learning new topics not only tech but also design, management that can help me to achieve my personal and career goals
+  - Active learner, I'm constantly learning new topics not only tech but also design, management that can help me to achieve my personal and career goals
 
-  - Event host, I hosted several brand events with world famous fashion publishers Vouge and Marie Claire in Taiwan in 2013 and 2015
+  - Event host, I hosted several brand events with world-famous fashion publishers Vogue and Marie Claire in Taiwan in 2013 and 2015
 
 
 ### 🔧 Tech skills I have 
@@ -21,11 +21,11 @@ A customer-centric data analyst with 8+ years of experience in Data Analysis, Bu
  
   - R: From loading data, processing, manipulation, and graphical analysis to model fitting
   
-  - SQL:DBMS relational and non- relational databases, data structures, data types and formulate data queries 
+  - SQL:DBMS relational and non-relational databases, data structures, data types and formulate data queries 
   
   - Tableau: create insightful visualizations that answer a variety of business questions
   
-  - HTML & CSS:  Familar with essential tags, elements, to style and structure web pages
+  - HTML & CSS:  Familiar with essential tags, elements, to style and structure web pages
 
 
 👩🏻‍💻 **Currently Learing** advanced SQL, Data Viz and UX skills
@@ -41,7 +41,7 @@ A customer-centric data analyst with 8+ years of experience in Data Analysis, Bu
   - 👩🏻‍🎨 **Texture & abstract art**: a new hobby I discoved recently, a greate alternative to meditation
   
 ### 🔭 About this Github
-Due to confidential reasons, I only added three projects at the momment. In these selected works, I documented how I use business framework, essential programming packages, visualization tools, ML models to solve business problems.
+Due to confidential reasons, I only added three projects at the moment. In these selected works, I documented how I use business framework, essential programming packages, visualization tools, ML models to solve business problems.
  
 <br>
 
