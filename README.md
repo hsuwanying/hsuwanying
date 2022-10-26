@@ -30,6 +30,8 @@ A customer-centric data analyst with 8+ years of experience in Data Analysis, Bu
 
 👩🏻‍💻 **Currently Learing** advanced SQL, Data Viz and UX skills
 <br>
+<br>
+<br>
 
 ### 👯 Apart from my work, I enjoy
   - 👩🏻‍🍳 **Cooking**: I can make the best Taiwanese fried chicken in Zurich 😎
@@ -39,7 +41,7 @@ A customer-centric data analyst with 8+ years of experience in Data Analysis, Bu
   - 👩🏻‍🎨 **Texture & abstract art**: a new hobby I discoved recently, a greate alternative to meditation
   
 ### 🔭 About this Github
-Due to confidential resons,  I only added three projects at the momment. In these selected works, I documented how I use business framework, essential programming packages, visualization tools, ML models to solve business problems.
+Due to confidential reasons, I only added three projects at the momment. In these selected works, I documented how I use business framework, essential programming packages, visualization tools, ML models to solve business problems.
  
 <br>
 
