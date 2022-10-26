@@ -7,11 +7,11 @@ A customer-centric data analyst with 8+ years of experience in Data Analysis, Bu
 <img width="400" src ="https://user-images.githubusercontent.com/72688726/196816578-ee9b29a9-254c-4a55-b558-89f2ce35fd25.svg">
 
 
-  - Entrepreneur, business owener, I own a product sourcing bsuiess with +5000 follower on Facebook Fan page
+  - Entrepreneur, business owener, I own a product sourcing business, managing +5000 customrts via Facebook Fan page
 
   - CX advocate, have unwaving passion in **Customer Insights**, I analyse market trends, customer and product data into evidence-based decisions to support business needs. 
 
-  - Active learner, I constantly learing new topics, new things and skills that can help me to achieve my personal and career goals
+  - Active learner, I constantly learning new topics not only tech but also design, management that can help me to achieve my personal and career goals
 
   - Event host, I hosted several brand events with world famous fashion publishers Vouge and Marie Claire in Taiwan in 2013 and 2015
 
@@ -28,12 +28,14 @@ A customer-centric data analyst with 8+ years of experience in Data Analysis, Bu
   - HTML & CSS:  Familar with essential tags, elements, to style and structure web pages
 
 
-👩🏻‍💻 **Currently Learing** advanced SQL and Data Visualization skills
+👩🏻‍💻 **Currently Learing** advanced SQL, Data Viz and UX skills
 <br>
 
 ### 👯 Apart from my work, I enjoy
   - 👩🏻‍🍳 **Cooking**: I can make the best Taiwanese fried chicken in Zurich 😎
+  
   - 🧘🏻‍♀️ **Pilates**: to train my core and strength muscle throughout full body excerise
+  
   - 👩🏻‍🎨 **Texture & abstract art**: a new hobby I discoved recently, a greate alternative to meditation
   
 ### 🔭 About this Github
