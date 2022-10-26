@@ -1,7 +1,7 @@
 ### Hey there! I'm Carol from 🇹🇼Taipei Taiwan and currently living in Zurich, Switzerland🇨🇭
 A customer-centric data analyst with 8+ years of experience in Data Analysis, Business Development and Customer Experience with focus on consumer goods, luxury and fashion industry. With a great interest in learning in-demand data science skills, I decided to pursue a master's degree in data science in 2020. Then, I started a position as a data analyst at MarketVision AG in 2022. 
 
-### In addtion, I am also a(n)...
+### In addtion to that, I am also a(n)...
 
 
 <img width="400" src ="https://user-images.githubusercontent.com/72688726/196816578-ee9b29a9-254c-4a55-b558-89f2ce35fd25.svg">
