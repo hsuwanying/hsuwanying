@@ -3,10 +3,6 @@ A customer-centric data analyst with 8+ years of experience in Data Analysis, Bu
 
 ### In addtion to that, I am also a(n)...
 
-
-<img width="400" src ="https://user-images.githubusercontent.com/72688726/196816578-ee9b29a9-254c-4a55-b558-89f2ce35fd25.svg">
-
-
   - Entrepreneur, business owner, I own a product sourcing business, managing +5000 customers via Facebook Fan page
 
   - CX advocate, have unweaving passion in **Customer Insights**, I analyse market trends, customer, and product data into evidence-based decisions to support business needs. 
