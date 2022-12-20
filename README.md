@@ -38,7 +38,7 @@ A customer-centric data analyst with over eight years of experience in the consu
   - 👩🏻‍🎨 **Texture & abstract art**: a new hobby I discoved recently, a greate alternative to meditation
   
 ### 🔭 About this Github
-Due to confidential reasons, I only added three projects at the moment. In these selected works, I documented how I use business framework, essential programming packages, visualization tools, ML models to solve business problems.
+In these selected works, I documented how I use business framework, essential programming packages, visualization tools, ML models to solve business problems.
  
 <br>
 
